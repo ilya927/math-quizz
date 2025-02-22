@@ -19,13 +19,6 @@ for line in f:
     listc.append(w[3])
     listd.append(w[4])
     listcorrect.append(w[5])
-# print(listquestion)
-# print(lista)
-# print(listb)
-# print(listc)
-# print(listd)
-# print(listcorrect)
-
 allcount = 0
 countcorrect = 0
 print('       Math Quiz         ')
